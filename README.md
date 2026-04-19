@@ -56,7 +56,7 @@ I love turning messy business problems into clean, structured, data-backed solut
 | # | Project | Tools | Status |
 |---|---|---|---|
 | 🚀 | [Scaling Customer Onboarding — B2B SaaS Case Study](https://github.com/akoskarsanyukta-BA) | Requirement Elicitation· Jira · SQL · AI Tools | 🔄 In Progress |
-| 🏥 | [Patient Readmission Analytics](https://github.com/akoskarsanyukta-BA) | SQL · Excel · Power BI | 🔄 In Progress |
+| 🏥 | [Patient Readmission Analytics](https://github.com/akoskarsanyukta-BA/patient-readmission-analytics) | SQL · Excel · Power BI | Completed |
 | 🍽️ | [Restaurant Insights Dashboard](https://github.com/akoskarsanyukta-BA) | Power BI · Power Query | 🔄 In Progress |
 
 ---
@@ -65,7 +65,6 @@ I love turning messy business problems into clean, structured, data-backed solut
 - 🏅 **Business Analyst** — Microsoft Azure AI x Simplilearn
 - 🏅 **CBAP®** — Certified Business Analysis Professional (IIBA via Simplilearn)
      
-
 ---
 
 ## 📬 Let's Connect!
