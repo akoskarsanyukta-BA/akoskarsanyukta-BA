@@ -8,16 +8,17 @@ I love turning messy business problems into clean, structured, data-backed solut
 ---
 
 ## 🔭 I'm currently working on ...
-- 🚀 Scaling Customer Onboarding at a B2B SaaS Company — Broken vs Optimized Onboarding Case Study
+- 🚀 Scaling Customer Onboarding at Optera Company — Broken vs Optimized Onboarding Case Study
 
 ## 🌱 I'm currently learning ...
-- Advanced SQL querying & optimization
 - DAX in Power BI
-- UML & process modelling with Lucidchart
+- Advanced SQL querying & optimization
 - AI-assisted Business Analysis workflows
+- Strengthening BA domain knowledge through real-world 
+  case studies & interview preparation
 
 ## 💬 Ask me about ...
-- Business Requirements Documentation (BRD)
+- Business & Functional Requirements Documentation (BRD & FRD)
 - Stakeholder Management & Requirement Elicitation
 - Process Optimization & Gap Analysis
 - Transitioning from Sales → Business Analysis
@@ -55,9 +56,9 @@ I love turning messy business problems into clean, structured, data-backed solut
 
 | # | Project | Tools | Status |
 |---|---|---|---|
-| 🚀 | [Scaling Customer Onboarding — B2B SaaS Case Study](https://github.com/akoskarsanyukta-BA) | Requirement Elicitation· Jira · SQL · AI Tools | 🔄 In Progress |
-| 🏥 | [Patient Readmission Analytics](https://github.com/akoskarsanyukta-BA/patient-readmission-analytics) | SQL · Excel · Power BI | Completed |
-| 🍽️ | [Restaurant Insights Dashboard](https://github.com/akoskarsanyukta-BA) | Power BI · Power Query | 🔄 In Progress |
+| 🚀 | [Scaling Customer Onboarding — B2B SaaS Case Study](https://github.com/akoskarsanyukta-BA) | Requirement Elicitation· Jira · SQL · AI Tools |🔄 In Progress |
+| 🏥 | [Patient Readmission Analytics](https://github.com/akoskarsanyukta-BA/patient-readmission-analytics) | SQL · Excel · Power BI |✅ Completed |
+| 🍽️ | [Restaurant Insights Dashboard](https://github.com/akoskarsanyukta-BA/restaurant-insights-ubereats) | Power BI · Power Query |✅ Completed|
 
 ---
 
