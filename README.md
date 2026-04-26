@@ -8,7 +8,7 @@ I love turning messy business problems into clean, structured, data-backed solut
 ---
 
 ## 🔭 I'm currently working on ...
-- 🚀 Scaling Customer Onboarding at Optera Company — Broken vs Optimized Onboarding Case Study
+- 🚀 Optera Onboarding Portal - End-to-End BA Casestudy
 
 ## 🌱 I'm currently learning ...
 - DAX in Power BI
@@ -39,16 +39,25 @@ I love turning messy business problems into clean, structured, data-backed solut
 ### 📋 BA & Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+### 🗺️ Diagramming & Documentation
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F96B13?style=flat)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=FFD02F)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-black?style=flat)
 ![Copilot](https://img.shields.io/badge/Microsoft_Copilot-258FFA?style=flat&logo=microsoft&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat)
 ![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=flat&logo=notion&logoColor=white)
-
-### 🗺️ Diagramming & Documentation
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-4285F4?style=flat&logo=google&logoColor=white)
+![Gamma](https://img.shields.io/badge/Gamma-6C3CE1?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
 
 ---
 
@@ -56,7 +65,7 @@ I love turning messy business problems into clean, structured, data-backed solut
 
 | # | Project | Tools | Status |
 |---|---|---|---|
-| 🚀 | [Scaling Customer Onboarding — B2B SaaS Case Study](https://github.com/akoskarsanyukta-BA) | Requirement Elicitation· Jira · SQL · AI Tools |🔄 In Progress |
+| 🚀 | [Optera Onboarding Portal - End-to-End BA Casestudy](https://github.com/akoskarsanyukta-BA) | Requirement Elicitation· Jira · SQL · AI Tools |🔄 In Progress |
 | 🏥 | [Patient Readmission Analytics](https://github.com/akoskarsanyukta-BA/patient-readmission-analytics) | SQL · Excel · Power BI |✅ Completed |
 | 🍽️ | [Restaurant Insights Dashboard](https://github.com/akoskarsanyukta-BA/restaurant-insights-ubereats) | Power BI · Power Query |✅ Completed|
 
