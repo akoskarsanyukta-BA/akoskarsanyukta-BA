@@ -65,7 +65,7 @@ I love turning messy business problems into clean, structured, data-backed solut
 
 | # | Project | Tools | Status |
 |---|---|---|---|
-| 🚀 | [Optera Onboarding Portal - End-to-End BA Casestudy](https://github.com/akoskarsanyukta-BA) | Requirement Elicitation· Jira · SQL · AI Tools |🔄 In Progress |
+| 🚀 | [Optera Onboarding Portal - End-to-End BA Casestudy](https://github.com/akoskarsanyukta-BA/optera-onboarding-portal-ba-casestudy) | Requirement Elicitation· Jira · SQL · AI Tools |🔄 In Progress |
 | 🏥 | [Patient Readmission Analytics](https://github.com/akoskarsanyukta-BA/patient-readmission-analytics) | SQL · Excel · Power BI |✅ Completed |
 | 🍽️ | [Restaurant Insights Dashboard](https://github.com/akoskarsanyukta-BA/restaurant-insights-ubereats) | Power BI · Power Query |✅ Completed|
 
