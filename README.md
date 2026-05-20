@@ -3,7 +3,7 @@
 🎯 **Business Analyst | CBAP®(IIBA) | SaaS · CRM · HRTech | Translating Business Needs into Scalable Solutions**
 
 I'm a BA professional with 4+ years in B2B SaaS & IT. I sit at the intersection of business strategy, data, and people.
- I love turning messy business problems into clean, structured, data-backed solutions. 📊
+ I Love turning messy business problems into clean, structured, data-backed solutions. 📊
 
 ---
 
